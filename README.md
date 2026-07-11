@@ -27,58 +27,59 @@ I'm a **Full-Stack Developer** focused on building modern web applications and a
 
 I enjoy creating scalable backends, intuitive frontends, automation tools, and custom systems. Clean architecture, performance, and maintainable code are my priorities.
 
-```ts
-const xtost = {
-    role: "Full-Stack Developer",
+```java
+public class Xtost {
 
-    languages: [
-        "TypeScript",
-        "JavaScript",
+    private final String role = "Full-Stack Developer";
+
+    private final String[] languages = {
+        "Java",
         "Lua",
+        "JavaScript",
+        "TypeScript",
         "SQL"
-    ],
+    };
 
-    frontend: [
+    private final String[] frontend = {
         "React",
         "Next.js",
         "Tailwind CSS",
         "HTML",
         "CSS"
-    ],
+    };
 
-    backend: [
+    private final String[] backend = {
         "Node.js",
         "Express",
-        "NestJS",
-        "Prisma"
-    ],
+        "NestJS"
+    };
 
-    databases: [
-        "PostgreSQL",
-        "MySQL",
-        "SQLite"
-    ],
-
-    gamedev: [
+    private final String[] gamedev = {
         "FiveM",
         "QBCore",
         "ESX",
         "ox_lib"
-    ],
+    };
 
-    tools: [
+    private final String[] databases = {
+        "PostgreSQL",
+        "MySQL",
+        "SQLite"
+    };
+
+    private final String[] tools = {
         "Git",
         "Docker",
         "Linux",
         "VS Code"
-    ],
+    };
 
-    currentlyLearning: [
-        "Go",
-        "Microservices",
-        "Cloud Infrastructure"
-    ]
-};
+    public void introduce() {
+        System.out.println("Hey! I'm Xtost 👋");
+        System.out.println("I build web applications, backend services and FiveM resources.");
+        System.out.println("Always learning. Always shipping.");
+    }
+}
 ```
 
 ---
