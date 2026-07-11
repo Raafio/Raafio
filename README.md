@@ -41,8 +41,6 @@ public final class Raafio {
         "Node.js",
         "Express.js",
         "NestJS",
-        "REST API",
-        "WebSocket",
         "JWT"
     };
 
