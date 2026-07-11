@@ -100,7 +100,6 @@ public final class Raafio {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-raafio-181717?style=for-the-badge&logo=github)](https://github.com/Raafio)
 [![Discord](https://img.shields.io/badge/Discord-raafio-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/710188250949615636)
 
 </div>
