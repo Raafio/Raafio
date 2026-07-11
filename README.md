@@ -1,4 +1,4 @@
-````md
+md
 <div align="center">
     <img width="300" src="./assets/main.gif"/>
     <br/>
@@ -134,4 +134,4 @@ const xtost = {
 ⭐ Thanks for visiting my profile!
 
 </div>
-````
+
