@@ -1,132 +1,112 @@
-md
-<div align="center">
-    <img width="300" src="./assets/main.gif"/>
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=650&height=60&lines=Hey+there!+I'm+Xtost+👋;Full-Stack+%26+FiveM+Developer" alt="Typing SVG" />
-    </a>
-</div>
 
-<div align="center">
-    <a href="https://github.com/xtost15">
-        <img src="https://img.shields.io/badge/GitHub-xtost15-cba6f7?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://discord.com/users/">
-        <img src="https://img.shields.io/badge/Discord-xtost-f5e0dc?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-    </a>
-</div>
+<h3 align="center"> 🚀 Developer from Poland 🇵🇱 </h3> <p align="center"> ☕ Java • ⚛️ React & Next.js • 🌱 Spring Boot • 🎮 Minecraft Plugins • 📚 Learning FiveM & Lua </p>
 
 ---
 
-# 👋 About Me
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xtost15&data=followers,repositories,stars,commits&theme=dark)](https://github.com/xtost15)
-
-I'm a **Full-Stack Developer** focused on building modern web applications and advanced **FiveM** resources.
-
-I enjoy creating scalable backends, intuitive frontends, automation tools, and custom systems. Clean architecture, performance, and maintainable code are my priorities.
-
 ```java
-public class Xtost {
+public final class Raafio {
 
-    private final String role = "Full-Stack Developer";
+    private final String name = "Raafio";
+    private final String location = "Poland";
 
-    private final String[] languages = {
+    private String[] languages = {
         "Java",
         "Lua",
         "JavaScript",
         "TypeScript",
-        "SQL"
+        "SQL",
+        "HTML",
+        "CSS",
+        "SCSS",
     };
 
-    private final String[] frontend = {
+    private String[] currentlyLearning = {
+        "Lua"
+    };
+
+    private String[] frontend = {
         "React",
         "Next.js",
+        "Vue.js",
+        "Nuxt.js",
         "Tailwind CSS",
-        "HTML",
-        "CSS"
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "Vite"
     };
 
-    private final String[] backend = {
+    private String[] backend = {
+        "Spring Boot",
         "Node.js",
-        "Express",
-        "NestJS"
+        "Express.js",
+        "NestJS",
+        "REST API",
+        "WebSocket",
+        "JWT"
     };
 
-    private final String[] gamedev = {
-        "FiveM",
-        "QBCore",
-        "ESX",
-        "ox_lib"
+    private String[] gamedev = {
+        "Minecraft",
+        "Spigot",
+        "Paper",
+        "Bukkit API",
+        "Plugin Development",
+        "FiveM (Learning)"
     };
 
-    private final String[] databases = {
+    private String[] databases = {
         "PostgreSQL",
         "MySQL",
-        "SQLite"
+        "MariaDB",
+        "SQLite",
+        "MongoDB",
+        "Redis"
     };
 
     private final String[] tools = {
         "Git",
+        "GitHub",
         "Docker",
         "Linux",
-        "VS Code"
+        "VS Code",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "Maven",
+        "Postman"
     };
 
     public void introduce() {
-        System.out.println("Hey! I'm Xtost 👋");
-        System.out.println("I build web applications, backend services and FiveM resources.");
-        System.out.println("Always learning. Always shipping.");
+        System.out.println("Hi! I'm " + name + " 👋");
+        System.out.println("Location: " + location);
+        System.out.println("Building modern web applications and Minecraft plugins.");
+        System.out.println("Currently learning: Lua & Fivem.");
+        System.out.println("Thanks for visiting my GitHub!");
     }
 }
 ```
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **Coming Soon** | Public repositories will appear here soon. |
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xtost15&column=4&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xtost15&theme=github-compact&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=xtost15&show_icons=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtost15&layout=compact&theme=transparent"/>
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,lua,react,nextjs,nodejs,nestjs,tailwind,html,css,postgres,mysql,git,docker,linux,vscode&perline=8"/>
-
+    <img src="https://skillicons.dev/icons?i=java,spring,lua,js,ts,html,css,tailwind&perline=8" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,nodejs,express,nestjs&perline=7" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&perline=5" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,webstorm,maven,postman&perline=9" />
 </p>
-
----
 
 # 📫 Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-xtost15-181717?style=for-the-badge&logo=github)](https://github.com/xtost15)
+[![GitHub](https://img.shields.io/badge/GitHub-raafio-181717?style=for-the-badge&logo=github)](https://github.com/Raafio)
+[![Discord](https://img.shields.io/badge/Discord-raafio-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/710188250949615636)
 
 </div>
 
----
 
 <div align="center">
 
@@ -135,4 +115,5 @@ public class Xtost {
 ⭐ Thanks for visiting my profile!
 
 </div>
+
 
